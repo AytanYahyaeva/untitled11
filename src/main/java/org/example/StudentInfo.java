@@ -24,6 +24,18 @@ public class StudentInfo {
         System.out.println(isActive);
         System.out.println(averageScore);
 
+        age=66;
+        System.out.println(age);
+
+
+        int a1=4;
+        float a2=4;
+        System.out.println(a1+a2);
+
+
+        String name11="Aytan";
+        int agee=22;
+        System.out.println(name11+": "+agee);
 
     }
 }
