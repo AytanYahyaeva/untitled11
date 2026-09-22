@@ -12,6 +12,9 @@ public class StudentInfo {
         //isActive    boolean    tələbənin aktiv olub-olmaması
         //averageScore    float    orta balı(Məsələn: 87.2)
 
+
+
+
         String name="Əli";
         byte age=21;
         char grade='F';

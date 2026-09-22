@@ -3,6 +3,9 @@ package org.example;
 public class Main {
       public static void main(String[] args) {
 
+
+            int secondnum =6;
+
             int x = 245;
             String a = "Aytan";
             float z = 30.5F;
